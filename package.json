@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Lib of JS TDD course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucassouto/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "course"
+  ],
+  "author": "Lucas Souto <lucasinfologos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucassouto/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/lucassouto/js-tdd-course#readme"
+}
